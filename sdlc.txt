@@ -17,3 +17,5 @@ git log gives the info about the commits
 git branch (name creates a new one) -m (rename or move) list the branches,git switch is used shift bn the branches,checkout is also a way
 git remote add origin(nickname for remote repo) url 
 git push origin(remote repo) main(branch) from local to remote
+
+this is temporary added in the branch
