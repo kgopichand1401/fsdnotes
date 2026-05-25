@@ -1,0 +1,19 @@
+sdlc software development life cycle
+1.client requirementss  2.proper-planning  3.better product quality  4.reduced error and costs
+
+phases: requirementss-gathering 
+design->techincal blueprint  hld-high level,lld-low level
+develop =>system building
+testing =>verify and validate the software
+deploy=>released to users,software is live
+after this vertioning is maintained,software maintains vertions
+11.2.1=major vertion. minor . patch in patch no new features are added
+
+git->distribute vcs tool hepls to keep track the files
+git-hub ->cloud based platform stores the repositories,it is container and allow collaboration
+git add files then it will move staging area ,the staging area gives the list of files which are need to track
+git commit -m "" createing a version
+git log gives the info about the commits
+git branch (name creates a new one) -m (rename or move) list the branches,git switch is used shift bn the branches,checkout is also a way
+git remote add origin(nickname for remote repo) url 
+git push origin(remote repo) main(branch) from local to remote
