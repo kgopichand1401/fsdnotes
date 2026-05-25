@@ -9,7 +9,7 @@ deploy=>released to users,software is live
 after this vertioning is maintained,software maintains vertions
 11.2.1=major vertion. minor . patch in patch no new features are added
 
-git->distribute vcs tool hepls to keep track the files
+git-distribute vcs tool hepls to keep track the files
 git-hub ->cloud based platform stores the repositories,it is container and allow collaboration
 git add files then it will move staging area ,the staging area gives the list of files which are need to track
 git commit -m "" createing a version
@@ -17,10 +17,3 @@ git log gives the info about the commits
 git branch (name creates a new one) -m (rename or move) list the branches,git switch is used shift bn the branches,checkout is also a way
 git remote add origin(nickname for remote repo) url 
 git push origin(remote repo) main(branch) from local to remote
-
-this is temporary added in the branch
-
-
-new notes will be added next day
-
-hello
