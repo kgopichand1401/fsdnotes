@@ -19,3 +19,8 @@ git remote add origin(nickname for remote repo) url
 git push origin(remote repo) main(branch) from local to remote
 
 this is temporary added in the branch
+
+
+new notes will be added next day
+
+hello
